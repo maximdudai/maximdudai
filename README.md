@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maximdudai" alt="maximdudai" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS**
+- 🌱 I’m currently learning **JavaScript, ReactJS, PHP**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, PHP**
 
 - 📫 How to reach me **maxim.dudai01@gmail.com**
 

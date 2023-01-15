@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximdudai&label=Profile%20views&color=0e75b6&style=flat" alt="maximdudai" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, PHP**
+- 🌱 I’m currently learning **JavaScript, ReactJS**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, PHP**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **maxim.dudai01@gmail.com**
 

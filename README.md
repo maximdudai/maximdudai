@@ -1,6 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on [GitHub Profile Search](https://github.com/maximdudai/React/tree/main/github-search) using ReactJS, TailwindCSS & Axios<br>🌱 I'm currently improving my knowledge of ReactJS
+  * 💻 **I'm working on:**
+      * [Lunyx Multiplayer] - GTA:V server powered by [RAGE:MP](https://rage.mp/).
+      * [SmartBrain](https://github.com/maximdudai/React/tree/main/smartbrain) - Image Recognition.
+      * [Portfolio](https://github.com/maximdudai) - Personal Portfolio
+<br>
 
+  * ✨ **I'm maintaining:**
+      * [GitHub Search](https://github.com/maximdudai/React/tree/main/github-search) - Generate a GitHub profile containing user information utilizing the GitHub API.
+
+<br>
+
+  * 🌱 I'm currently improving my knowledge of ReactJS
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dudai1101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxd-dev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21236778) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/max__dev) 

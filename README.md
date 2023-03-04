@@ -1,7 +1,7 @@
 # 💫 About Me:
   * 💻 **I'm working on:**
       * [Lunyx Multiplayer] - GTA:V server powered by [RAGE:MP](https://rage.mp/).
-      * [SmartBrain](https://github.com/maximdudai/React/tree/main/smartbrain) - Image Recognition.
+      * [Currency Convert](https://github.com/maximdudai/currency-convert) - exchange currency using exchange rates from the CoinMarketCap and CurrencyLayer APIst
       * [Portfolio](https://github.com/maximdudai) - Personal Portfolio
 <br>
 

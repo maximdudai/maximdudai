@@ -1,12 +1,12 @@
 # 💫 About Me:
   * 💻 **I'm working on:**
-      * [Lunyx Multiplayer] - GTA:V server powered by [RAGE:MP](https://rage.mp/).
-      * [Currency Convert](https://github.com/maximdudai/currency-convert) - exchange currency using exchange rates from the CoinMarketCap and CurrencyLayer APIst
-      * [Portfolio](https://github.com/maximdudai/portfolio) - Personal Portfolio
+      * [Estrela-Pneus](https://github.com/maximdudai/estrela-pneus) - Online tire shop with a user-friendly interface, offering a wide range of tires for all types of vehicles.
 <br>
 
   * ✨ **I'm maintaining:**
+      * [Currency Convert](https://github.com/maximdudai/currency-convert) - Exchange currency using exchange rates from the CoinMarketCap and CurrencyLayer APIst
       * [GitHub Search](https://github.com/maximdudai/React/tree/main/github-search) - Generate a GitHub profile containing user information utilizing the GitHub API.
+      * [Portfolio](https://github.com/maximdudai/portfolio) - Personal Portfolio
 
 <br>
 

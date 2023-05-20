@@ -5,6 +5,7 @@
 <br>
 
   * 💻 **Projects**
+      * [Portfolio](https://github.com/maximdudai/portfolio) - Personal portfolio, where you can discover more about me, explore my daily-dev hobbies, dive into my project showcase, and uncover my knowledge in web development.
       * [Currency Convert](https://github.com/maximdudai/currency-convert) - Exchange currency using exchange rates from the CoinMarketCap and CurrencyLayer APIst
       * [GitHub Search](https://github.com/maximdudai/React/tree/main/github-search) - Generate a GitHub profile containing user information utilizing the GitHub API.
 

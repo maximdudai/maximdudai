@@ -1,6 +1,5 @@
 # 💫 About Me:
   * 💻 **I'm working on:**
-      * [Estrela-Pneus](https://github.com/maximdudai/estrela-pneus) - Online tire shop offering a wide range of tires for all types of vehicles.
       * [MovieMaster](https://github.com/maximdudai/MovieMaster) - Discover, search, and watch movies effortlessly.
 <br>
 

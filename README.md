@@ -10,7 +10,7 @@
 
 <br>
 
-  * 🌱 I'm currently improving my knowledge of ReactJS
+  * 🌱 I'm currently learning C# and Scrum
 <br>
 
 ## 🌐 Socials:

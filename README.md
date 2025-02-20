@@ -1,7 +1,8 @@
-# 💫 :
+# 💫 : My Journey & Projects
 
   * 💻 **Under Development**
-      * Under consideration
+      * Currently exploring new ideas and determining my next project!
+
 <br>
 
   * 💻 **Personal projects**

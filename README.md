@@ -1,4 +1,4 @@
-# 💫 : My Journey & Projects
+# 💫 My Journey & Projects
 
   * 💻 **Under Development**
       * Currently exploring new ideas and determining my next project!

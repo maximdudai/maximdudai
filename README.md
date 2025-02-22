@@ -5,7 +5,7 @@
 
 <br>
 
-  * 💻 **Personal projects**
+  * 💻 **Side projects**
       * [Kahoot](https://github.com/maximdudai/kahoot) - Interactive quiz game with real-time communication between server and client.
       * [Portfolio](https://github.com/maximdudai/portfolio) - Personal portfolio, where you can discover more about me, daily-dev hobbies, project showcase and uncover my knowledge.
       * [Currency Convert](https://github.com/maximdudai/currency-convert) - Exchange currency using exchange rates from the CoinMarketCap and CurrencyLayer APIst.

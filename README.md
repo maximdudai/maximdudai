@@ -5,17 +5,9 @@
 
 <br>
 
-  * 💻 **Side projects**
-      * [Kahoot](https://github.com/maximdudai/kahoot) - Interactive quiz game with real-time communication between server and client.
-      * [Portfolio](https://github.com/maximdudai/portfolio) - Personal portfolio, where you can discover more about me, daily-dev hobbies, project showcase and uncover my knowledge.
-      * [Currency Convert](https://github.com/maximdudai/currency-convert) - Exchange currency using exchange rates from the CoinMarketCap and CurrencyLayer APIst.
-      * [GitHub Search](https://github.com/maximdudai/React/tree/main/github-search) - Generate a GitHub profile containing user information utilizing the GitHub API.
-<br>
+  * 💻 **Portfolio**
+      * [maximdudai](https://www.maximdudai.dev/) - Discover all necessary information, including my experience, certificates, projects and education.
 
- * 💻 **Academic Projects**
-     * [Fast Wheels](https://github.com/maximdudai/FastWheels) - Rent-a-car application including FrontOffice & BackOffice & Mobile.
-     * [iCanteen](https://github.com/maximdudai/iCanteen) - School canteen management including daily menus, reservations, balance top-ups, and billing.
-     * [Chat App](https://github.com/maximdudai/chat-app) - Chat application using asymmetric and symmetric encryption to ensure secure message exchange and data integrity.
 <br>
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 # 💫 My Journey & Projects
 
   * 💻 **Under Development**
-      * Currently exploring new ideas and determining my next project!
+      * Side-Project: Finance app to track automatic incomes (e.g., salaries) and recurring expenses (e.g., subscriptions).
 
 <br>
 
